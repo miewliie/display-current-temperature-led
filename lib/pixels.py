@@ -1,5 +1,5 @@
 import math
-from rpi_ws281x import Adafruit_NeoPixel, Color
+from rpi_ws281x import PixelStrip as Adafruit_NeoPixel, Color
 
 
 # LED strip configuration:
