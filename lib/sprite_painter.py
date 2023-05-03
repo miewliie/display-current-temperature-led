@@ -14,6 +14,18 @@ class MonochromeSprite(NamedTuple):
     """The list of pixels representing the sprite"""
 
 
+class ColorfulSprite(NamedTuple):
+
+    width: int
+    """Width of the sprite"""
+
+    height: int
+    """Height of the sprite"""
+
+    layers: dict[Color: list[tuple[int, int]]]
+    """The list of pixels representing the sprite"""
+
+
 def draw_pixels(
     pixels: Pixels,
     position: tuple[int, int],
@@ -41,3 +53,14 @@ def draw_monochrome_sprite(
     """ Draw a sprite with one color """
 
     draw_pixels(pixels, position, sprite.pixels, color)
+
+
+def draw_colorful_sprite(
+    pixels: Pixels,
+    sprite: ColorfulSprite,
+    position: tuple[int, int],
+    color: Color
+):
+    for color, color_pixels in sprite.layers.items():
+        draw_pixels(pixels, position, color_pixels, Color(*color))
+
