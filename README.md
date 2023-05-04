@@ -9,3 +9,7 @@ main branch : Part 1<br>
 
 part2 branch: Part 2 <br>
 - https://miewliie.dev/blog/display-number-ws2812b-32x8-led-matrix-raspberrypi-2/
+
+part3 branch: Part 3 <br>
+- https://miewliie.dev/blog/display-weather-glyph-ws2812b-32x8-led-matrix-raspberrypi-3/
+
