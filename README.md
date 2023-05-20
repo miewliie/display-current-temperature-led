@@ -3,13 +3,16 @@ Display current temperature on ws2812b 32x8 LED matrix using Raspberry Pi Zero i
 
 <br>
 
-main branch : Part 1<br>
-- https://miewliie.dev/blog/display-red-dot-ws2812b-32x8-led-matrix-raspberrypi-1/
+main branch:<br>
+[Part 1](https://miewliie.dev/blog/part1-display-red-dot-ws2812b-32x8-led-matrix-raspberrypi/)
 <br>
 
-part2 branch: Part 2 <br>
-- https://miewliie.dev/blog/display-number-ws2812b-32x8-led-matrix-raspberrypi-2/
+part2 branch:<br>
+[Part 2](https://miewliie.dev/blog/part2-display-number-ws2812b-32x8-led-matrix-raspberrypi/)
 
-part3 branch: Part 3 <br>
-- https://miewliie.dev/blog/display-weather-glyph-ws2812b-32x8-led-matrix-raspberrypi-3/
+part3 branch:<br>
+[Part 3](https://miewliie.dev/blog/part3-display-weather-glyph-ws2812b-32x8-led-matrix-raspberrypi/)
+
+part4 branch: <br>
+[Part 4](https://miewliie.dev/blog/part4-display-current-temperature-ws2812b-32x8-led-matrix-raspberrypi/)
 
