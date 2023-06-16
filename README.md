@@ -16,4 +16,4 @@ part3 branch:<br>
 part4 branch: <br>
 [Part 4](https://miewliie.dev/blog/part4-display-current-temperature-ws2812b-32x8-led-matrix-raspberrypi/)
 
-![led1](https://github.com/miewliie/display-current-temperature/assets/20311850/77056b56-26bc-43d0-9b0d-dec06ad240b8)
+![led1](https://github.com/miewliie/display-current-temperature/assets/20311850/d56406a1-058b-4532-a8ad-4fc4b6c14f15)
