@@ -2,7 +2,11 @@
 Display current temperature on ws2812b 32x8 LED matrix using Raspberry Pi Zero in Python. 
 
 <br>
+After try with the case: <br>
 
+![temperature-ws2812b](https://github.com/miewliie/display-current-temperature-led/assets/20311850/a8b5c754-da10-4fd8-a8ec-8e7cd5807a94)
+
+## How to:
 main branch:<br>
 [Part 1](https://miewliie.dev/blog/part1-display-red-dot-ws2812b-32x8-led-matrix-raspberrypi/)
 <br>
@@ -17,3 +21,4 @@ part4 branch: <br>
 [Part 4](https://miewliie.dev/blog/part4-display-current-temperature-ws2812b-32x8-led-matrix-raspberrypi/)
 
 ![led1](https://github.com/miewliie/display-current-temperature/assets/20311850/d56406a1-058b-4532-a8ad-4fc4b6c14f15)
+
